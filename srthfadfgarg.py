@@ -1,5 +1,5 @@
-import CustomTkinter as ctk 
+import customtkinter as ctk
 
-root =  ctk.ctkRoot()
+root =  ctk.CTk()
 
 root.mainloop()
