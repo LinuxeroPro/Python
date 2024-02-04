@@ -1,5 +1,6 @@
 import customtkinter as ctk
-
+num1 = None
+num2 = None
 root = ctk.CTk()
 root.geometry("600x240")
 root.resizable(0,0)
@@ -9,25 +10,25 @@ entry.grid(row=1, column=5, columnspan=2, pady=5)
 
 
 def FunBot0():
-    pass
+    entry.insert(ctk.END, "0")
 def FunBot1():
-    pass
+    entry.insert(ctk.END, "1")
 def FunBot2():
-    pass
+    entry.insert(ctk.END, "2")
 def FunBot3():
-    pass
+    entry.insert(ctk.END, "3")
 def FunBot4():
-    pass
+    entry.insert(ctk.END, "4")
 def FunBot5():
-    pass
+    entry.insert(ctk.END, "5")
 def FunBot6():
-    pass
+    entry.insert(ctk.END, "6")
 def FunBot7():
-    pass
+    entry.insert(ctk.END, "7")
 def FunBot8():
-    pass
+    entry.insert(ctk.END, "8")
 def FunBot9():
-    pass
+    entry.insert(ctk.END, "9")
 def FunBot1Pl():
     pass
 def FunBotLe():
