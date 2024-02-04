@@ -7,6 +7,37 @@ root.resizable(0,0)
 entry = ctk.CTkEntry(root)
 entry.grid(row=1, column=5, columnspan=2)
 
+def FunBot1():
+    pass
+def FunBot2():
+    pass
+def FunBot3():
+    pass
+def FunBot4():
+    pass
+def FunBot5():
+    pass
+def FunBot6():
+    pass
+def FunBot7():
+    pass
+def FunBot8():
+    pass
+def FunBot9():
+    pass
+def FunBot1Pl():
+    pass
+def FunBotLe():
+    pass
+def FunBotDiv():
+    pass
+def FunBotMul():
+    pass
+def FunBotEq():
+    pass
+def FunBotCE():
+    pass
+
 button1 = ctk.CTkButton(root, text="1")
 button1.grid(row=2, column=2, columnspan=2, padx=5, pady=10)
 button2 = ctk.CTkButton(root, text="2", command="")
